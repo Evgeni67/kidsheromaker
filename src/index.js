@@ -33,6 +33,7 @@ const baseAllowed = new Set([
   'https://bright-logic-nexus.lovable.app',
   'https://techsoftbg.com',
   'https://super-deteto-magic.lovable.app',
+  'https://super-deteto.com'
 
 ]);
 
